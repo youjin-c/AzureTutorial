@@ -1,5 +1,6 @@
 # Prerequisite
 PC, VR/MR headset(or just a headset), Unity(2017.4) installed, Azure account-->[Sign up for Azure FREE trial](https://azure.microsoft.com/en-us/free/)
+![Unity](Unity.jpg)
 # Access 'Mixed Reality' settings on Windows 10
 1. Use the **Windows key + R** keyboard shortcut to open the **Run** command.<br/>
 2. Type **regedit**, and click **OK** to open the **Registry**.<br/>
