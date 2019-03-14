@@ -5,11 +5,13 @@ PC, VR/MR headset(or just a headset), Unity(2017.4) installed, Azure account[Sig
 2. Type **regedit**, and click **OK** to open the **Registry**.<br/>
 3. Browse the following path:<br/>
 ```HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Holographic```<br/>
-Right-click the **Holographic** (folder) key, select **New** and click on **DWORD (32-bit) Value**.<br/>
-4. Name the key **FirstRunSucceeded** and press **Enter**.<br/>
-5. Double-click the newly created key and change its value from **0** to **1**.<br/>
+![MRsetting0](/MRsetting.jpg)
+You will see the key **FirstRunSucceeded**, right click on it.<br/> 
+5. Change the value data from **0** to **1**.<br/>
+![MRsetting1](/MRsetting1.jpg)
     **Quick Tip**: If you want to remove the "Mixed Reality" section from the Settings app, you can leave the **FirstRunSucceeded** key with the default value of **0**.<br/>
-    Click **OK**.
+    Click **OK**. You can see 'Mixed reality' in Windows Settings.
+    ![MRsetting2](/MRsetting2.jpg)
 
 
 
