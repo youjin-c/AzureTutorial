@@ -21,6 +21,8 @@ You will see the key **FirstRunSucceeded**, right click on it.<br/>
 # Enable Developer Mode
 ![DevOp](/devOp.jpg)
 
+# Windows 10 SDK 1809 Download
+[Windows 10 SDK 1809 Download](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
 
 ![CreateResource](/azure000.jpg)
