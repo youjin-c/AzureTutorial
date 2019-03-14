@@ -5,7 +5,7 @@ PC, VR/MR headset(or just a headset), Unity(2017.4) installed, Azure account-->[
 2. Type **regedit**, and click **OK** to open the **Registry**.<br/>
 3. Browse the following path:<br/>
 ```HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Holographic```<br/>
-![MRsetting0](/MRsetting.jpg=200x)
+![MRsetting0](/MRsetting.jpg)
 You will see the key **FirstRunSucceeded**, right click on it.<br/> 
 5. Change the value data from **0** to **1**.<br/>
 ![MRsetting1](/MRsetting1.jpg)
