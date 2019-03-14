@@ -9,7 +9,7 @@ It is recommended to keep all the Azure services associated with a single projec
 Sign in Luis.ai with the same credential with MS Azure.<br/>
 
 
-- Intent, represents the method that will be called following a query from the user. <br/>
-- An INTENT may have one or more ENTITIES.<br/>
-- Entity, is a component of the query that describes information relevant to the INTENT.<br/>
-- Utterances, are examples of queries provided by the developer, that LUIS will use to train itself.<br/>
+- *Intent*, represents the method that will be called following a query from the user. <br/>
+- An *INTENT* may have one or more *ENTITIES*.<br/>
+- *Entity*, is a component of the query that describes information relevant to the *INTENT*.<br/>
+- *Utterances*, are examples of queries provided by the developer, that LUIS will use to train itself.<br/>
