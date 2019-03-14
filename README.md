@@ -15,6 +15,8 @@ You will see the key **FirstRunSucceeded**, right click on it.<br/>
 6. Turn on the option *“When I wear my headset, switch to headset mic”* in the Mixed Reality Portal settings.
 7. Check the box under Speech, "Use speech reognition in Windows Mixed Reality. Speech recognition will always listen when mixed reality is running.
 ![mrsetting](https://docs.microsoft.com/en-us/windows/mixed-reality/images/azurelabs-lab3-00.png)
+# Enable Developer Mode
+![DevOp](/devOp.jpg)
 
 
 
