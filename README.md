@@ -17,6 +17,7 @@ You will see the key **FirstRunSucceeded**, right click on it.<br/>
 7. Check the box under Speech, "Use speech reognition in Windows Mixed Reality. Speech recognition will always listen when mixed reality is running.
 ![mrsetting](https://docs.microsoft.com/en-us/windows/mixed-reality/images/azurelabs-lab3-00.png)
 8. To allow your machine to enable **Dictation, go to Windows Settings > Privacy > Speech, Inking & Typing** and press on the button **Turn On speech services and typing suggestions**.
+![speechSetting](speechSetting.jpg)
 # Enable Developer Mode
 ![DevOp](/devOp.jpg)
 
