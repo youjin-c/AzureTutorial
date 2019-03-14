@@ -1,7 +1,14 @@
 # Prerequisite
-PC, VR/MR headset(or just a headset), Unity(2017.4) installed, Azure account-->[Sign up for Azure FREE trial](https://azure.microsoft.com/en-us/free/)
-![Unity](Unity.jpg)
-# Access 'Mixed Reality' settings on Windows 10
+- PC
+- VR/MR headset(or just a headset)
+
+- Azure account [Sign up for Azure FREE trial](https://azure.microsoft.com/en-us/free/)
+
+- SDK download [Windows 10 SDK 1809 Download](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
+- Unity(2017.4) installed
+![Unity](Unity.jpg)<br/>
+
+## Access 'Mixed Reality' settings on Windows 10
 1. Use the **Windows key + R** keyboard shortcut to open the **Run** command.<br/>
 2. Type **regedit**, and click **OK** to open the **Registry**.<br/>
 3. Browse the following path:<br/>
@@ -18,11 +25,9 @@ You will see the key **FirstRunSucceeded**, right click on it.<br/>
 ![mrsetting](https://docs.microsoft.com/en-us/windows/mixed-reality/images/azurelabs-lab3-00.png)
 8. To allow your machine to enable **Dictation, go to Windows Settings > Privacy > Speech, Inking & Typing** and press on the button **Turn On speech services and typing suggestions**.
 ![speechSetting](speechSetting.jpg)
-# Enable Developer Mode
+## Enable Developer Mode
 ![DevOp](/devOp.jpg)
 
-# Windows 10 SDK 1809 Download
-[Windows 10 SDK 1809 Download](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
 
 ![CreateResource](/azure000.jpg)
