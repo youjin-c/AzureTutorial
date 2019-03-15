@@ -29,7 +29,7 @@ You will see the key **FirstRunSucceeded**, right click on it.<br/>
 ![DevOp](img/devOp.jpg)
 
 
-
+#Azure & LUIS portal
 ![CreateResource](img/azure000.jpg)
 ![CreateResource](img/azure001.png)
 Choose a Resource Group or create a new one.<br/> 
@@ -37,8 +37,10 @@ A resource group provides a way to monitor, control access, provision and manage
 It is recommended to keep all the Azure services associated with a single project  under a common resource group.<br/>
 Sign in Luis.ai with the same credential with MS Azure.<br/>
 
-
+[Continued Tutorial on MS website](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-303#chapter-2--the-language-understanding-portal)
 - *Intent*, represents the method that will be called following a query from the user. <br/>
 - An *INTENT* may have one or more *ENTITIES*.<br/>
 - *Entity*, is a component of the query that describes information relevant to the *INTENT*.<br/>
 - *Utterances*, are examples of queries provided by the developer, that LUIS will use to train itself.<br/>
+
+
